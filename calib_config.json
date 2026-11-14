@@ -1,0 +1,10 @@
+{
+    "projection" : "equirectangular",
+    "lat_max": 90.0,
+    "lon_max": 180.0,
+    "lat_min": -90.0,
+    "lon_min":-180.0,
+    "grid_size": 15.0,
+    "heat_threshold": 0.15,
+    "change_threshold": 0.02
+}
