@@ -6,5 +6,5 @@
     "lon_min":-180.0,
     "grid_size": 15.0,
     "heat_threshold": 0.15,
-    "change_threshold": 0.05
+    "change_threshold": 0.02
 }
