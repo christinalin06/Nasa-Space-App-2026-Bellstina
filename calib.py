@@ -61,3 +61,4 @@ while True:
 
     if i%frame_saves == 0:
         # TODO: overlay should be added, then saved to tempfolder, increment i
+        # so possibly a helper function for the overlay to be added
